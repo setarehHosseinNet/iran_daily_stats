@@ -1,0 +1,13 @@
+body {
+  font-family: Vazirmatn, sans-serif;
+  margin: 20px;
+  background: #fff;
+  color: #222;
+}
+.stats-box {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  background: #f9f9f9;
+}
